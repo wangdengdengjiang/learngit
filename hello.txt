@@ -1,1 +1,2 @@
 Hello World
+新增一个方法GetHELLO（）
