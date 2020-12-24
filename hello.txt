@@ -1,3 +1,4 @@
 Hello World
 新增一个方法GetHELLO（）
 新增一个方法GetHELLO2（）
+这是一个暂存区
